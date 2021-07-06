@@ -1,2 +1,2 @@
-# Pascal-s-Triangle
+#Triangle of Pascal
 Pascal's Triangle
